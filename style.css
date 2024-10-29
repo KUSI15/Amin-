@@ -1,0 +1,21 @@
+body {
+    font-size: 15pt;
+    background-color: darkred;
+    background-image: URL('hyouka-anime.gif');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+H1 {
+  margin-left:200px;
+  font-size: 50pt;
+}
+
+p1 {
+  margin-left: 400px;
+  font-size: 25pt;
+  font-style: bold;
+}
+
